@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13421188441",
+    "project_id": "stotras-2fb06",
+    "storage_bucket": "stotras-2fb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13421188441:android:86964df2ac68f66b1ba848",
+        "android_client_info": {
+          "package_name": "com.stotras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13421188441-r68ce6jel23q14d5u3obiclbd3rl71af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stotras",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "13421188441-ot2731nupugfsg3u1j4tjmsijkp3h7gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxDVGSFwBai64yJGeYlpLCQNEx8d2UEjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13421188441-ot2731nupugfsg3u1j4tjmsijkp3h7gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
